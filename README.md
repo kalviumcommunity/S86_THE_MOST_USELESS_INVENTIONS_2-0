@@ -6,7 +6,7 @@
 ## Key Features
 - **Curated Collection of Useless Inventions** – A gallery of the most pointless and ridiculous inventions ever made.
 - **User Submissions** – Users can submit their own findings of hilariously useless products.
-- **Upvote & Comment System** – Users can upvote their favorite useless inventions and discuss their absurdity.
+- **Upvote & Comment System** – Users can upvote their favorite useless inventions and discuss their absurdity...
 - **Leaderboard** – Displays the most upvoted useless inventions.
 - **Search & Filter Options** – Filter by categories like *"Fashion Fails," "Pointless Gadgets,"* or *"Strangest Inventions."*
 
