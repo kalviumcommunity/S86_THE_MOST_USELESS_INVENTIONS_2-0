@@ -1,0 +1,12 @@
+{
+  "name": "s86_the_most_useless_inventions_2-0-main",
+  "version": "1.0.0",
+  "description": "**\"The Most Useless Inventions Ever\"** is a web-based platform that showcases some of the most bizarre, impractical, and hilariously pointless inventions ever created. The goal is to entertain users with ridiculous innovations that make you question, *\"Why does this even exist?\"* Users can browse, upvote the most absurd inventions, and even submit their own weird discoveries.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
