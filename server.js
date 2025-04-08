@@ -1,28 +1,46 @@
-const express = require("express");
-const app = express();
-const PORT = 3000;
+require("dotenv").config(); // Load environment variables
 
-// Middleware to parse JSON
+const express = require("express");
+const { MongoClient } = require("mongodb");
+const app = express();
+
+const PORT = process.env.PORT || 3000;
+const MONGO_URI = process.env.MONGO_URI;
+
 app.use(express.json());
 
-// Root route
+// MongoDB client setup
+const client = new MongoClient(MONGO_URI);
+
+async function connectDB() {
+  try {
+    await client.connect();
+    console.log("✅ Connected to MongoDB Atlas");
+  } catch (err) {
+    console.error("❌ MongoDB connection error:", err);
+  }
+}
+connectDB();
+
+// Routes
 app.get("/", (req, res) => {
-    res.send("Server is running!!!");
-});
-app.get('/ping', (req, res) => {
-    res.json({ message: 'pong' });
+  res.send("Server is running!!!");
 });
 
-// Users route (Fix: Make sure this exists!)
-app.get("/users", (req, res) => {
-    const users = [
-        { id: 1, name: "John Doe", email: "john@example.com" },
-        { id: 2, name: "Jane Smith", email: "jane@example.com" }
-    ];
+app.get("/ping", (req, res) => {
+  res.json({ message: "pong" });
+});
+
+app.get("/users", async (req, res) => {
+  try {
+    const db = client.db("useless_inventions");
+    const users = await db.collection("users").find().toArray();
     res.json(users);
+  } catch (err) {
+    res.status(500).send("Error fetching users: " + err);
+  }
 });
 
-// Start the server
 app.listen(PORT, () => {
-    console.log(`Server is running on http://localhost:${PORT}`);
+  console.log(`🚀 Server running at http://localhost:${PORT}`);
 });
