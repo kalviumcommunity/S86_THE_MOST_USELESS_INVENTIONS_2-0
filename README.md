@@ -1,7 +1,7 @@
 ## The Most Useless Inventions Ever 🤦‍♂️
 
 ## Project Overview
-**"The Most Useless Inventions Ever"** is a web-based platform that showcases some of the most bizarre, impractical, and hilariously pointless inventions ever created. The goal is to entertain users with ridiculous innovations that make you question, *"Why does this even exist?"* Users can browse, upvote the most absurd inventions, and even submit their own weird discoveries.
+**"The Most Useless Inventions Ever"** is a web-based platform that showcases some of the most bizarre, impractical, and hilariously pointless inventions ever created. The goal is to entertain users with ridiculous innovations that make you question, *"Why does this even exist?"* Users can browse, upvote the most absurd inventions, and even submit their own weird discoveries..
 
 ## Key Features
 - **Curated Collection of Useless Inventions** – A gallery of the most pointless and ridiculous inventions ever made.
