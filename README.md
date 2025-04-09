@@ -19,7 +19,7 @@
 - Node.js (Express) or Firebase
 
 ### Database
-- MongoDB or Firestore
+- MongoDB or Firestore.
 
 ## Why This Project?
 - **Hilarious & Shareable** – Everyone loves ridiculous and funny content, making this project entertaining and viral.
