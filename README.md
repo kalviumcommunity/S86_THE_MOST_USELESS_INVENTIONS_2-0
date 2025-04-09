@@ -20,10 +20,10 @@
 
 ### Database
 - MongoDB or Firestore
-
+.
 ## Why This Project?
 - **Hilarious & Shareable** – Everyone loves ridiculous and funny content, making this project entertaining and viral.
-- **Tech Learning** – A great way to develop skills in full-stack web development, user authentication, and database management.
+- **Tech Learning** – A great way to develop skills in full-stack web development, user authentication, and database management...
 
 
 ## Deploy Link:
