@@ -28,3 +28,6 @@
 
 ## Deploy Link:
 https://s86-the-most-useless-inventions-2-0.onrender.com
+
+## netlify link:
+https://sensational-mandazi-c6e656.netlify.app/
