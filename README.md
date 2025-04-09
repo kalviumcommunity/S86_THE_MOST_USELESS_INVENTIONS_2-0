@@ -1,7 +1,7 @@
 ## The Most Useless Inventions Ever 🤦‍♂️
 
 ## Project Overview
-**"The Most Useless Inventions Ever"** is a web-based platform that showcases some of the most bizarre, impractical, and hilariously pointless inventions ever created. The goal is to entertain users with ridiculous innovations that make you question, *"Why does this even exist?"* Users can browse, upvote the most absurd inventions, and even submit their own weird discoveries.
+**"The Most Useless Inventions Ever"** is a web-based platform that showcases some of the most bizarre, impractical, and hilariously pointless inventions ever created. The goal is to entertain users with ridiculous innovations that make you question, *"Why does this even exist?"* Users can browse, upvote the most absurd inventions, and even submit their own weird discoveries..
 
 ## Key Features
 - **Curated Collection of Useless Inventions** – A gallery of the most pointless and ridiculous inventions ever made.
@@ -19,7 +19,7 @@
 - Node.js (Express) or Firebase
 
 ### Database
-- MongoDB or Firestore
+- MongoDB or Firestore.
 
 ## Why This Project?
 - **Hilarious & Shareable** – Everyone loves ridiculous and funny content, making this project entertaining and viral.
@@ -27,8 +27,12 @@
 
 ## 🚀 Deployment Links
 
+ deploy-frontend
 ### 🌐 Frontend (Cloudflare)
 🔗 [Visit Live Frontend](https://useless-inventions.pages.dev)
 
 ### 🔧 Backend (Render)
 🔗 [Visit Live Backend API](https://s86-the-most-useless-inventions-2-0.onrender.com)
+
+## Deploy Link:  
+https://s86-the-most-useless-inventions-2-0.onrender.com
