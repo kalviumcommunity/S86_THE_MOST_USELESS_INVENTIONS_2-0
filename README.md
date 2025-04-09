@@ -25,14 +25,8 @@
 - **Hilarious & Shareable** – Everyone loves ridiculous and funny content, making this project entertaining and viral.
 - **Tech Learning** – A great way to develop skills in full-stack web development, user authentication, and database management.
 
-## 🚀 Deployment Links
-
- deploy-frontend
-### 🌐 Frontend (Cloudflare)
-🔗 [Visit Live Frontend](https://useless-inventions.pages.dev)
-
-### 🔧 Backend (Render)
-🔗 [Visit Live Backend API](https://s86-the-most-useless-inventions-2-0.onrender.com)
+## 🚀 Deployment Link
+https://sensational-mandazi-c6e656.netlify.app/
 
 ## Deploy Link:  
 https://s86-the-most-useless-inventions-2-0.onrender.com
