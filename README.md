@@ -18,15 +18,21 @@
 ### Backend
 - Node.js (Express) or Firebase
 
-### Database
-- MongoDB or Firestore.
 
 ## Why This Project?
 - **Hilarious & Shareable** – Everyone loves ridiculous and funny content, making this project entertaining and viral.
-- **Tech Learning** – A great way to develop skills in full-stack web development, user authentication, and database management.
+- **Tech Learning** – A great way to develop skills in full-stack web development, user authentication, and database management...
 
 ## 🚀 Deployment Link
 https://sensational-mandazi-c6e656.netlify.app/
 
+feature/component-deliveryCard
+## Deploy Link:
+https://s86-the-most-useless-inventions-2-0.onrender.com
+
+## netlify link:
+https://sensational-mandazi-c6e656.netlify.app/
+=======
 ## Deploy Link:  
 https://s86-the-most-useless-inventions-2-0.onrender.com
+main
